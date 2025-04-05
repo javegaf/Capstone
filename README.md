@@ -35,7 +35,6 @@ Desarrollar una plataforma web para la centralización y difusión de eventos so
 - Pensamiento analítico y resolución de problemas
 - Trabajo en equipo y comunicación
 - Adaptabilidad y aprendizaje continuo
-- Uso del inglés técnico
 
 ## ⚙️ Tecnologías utilizadas
 
@@ -61,10 +60,10 @@ Se utiliza la **metodología en cascada**, lo que nos permite avanzar de forma o
 
 1. Definición de requerimientos
 2. Análisis y diseño
-3. Implementación
+3. Implementación o desarrollo
 4. Pruebas
-5. Despliegue
-6. Mantenimiento
+5. Despliegue (Por motivos academicos y de tiempo no se realizará)
+6. Mantenimiento (Por motivos academicos y de tiempo no se realizará)
 
 ## 📈 Planificación
 
@@ -95,9 +94,9 @@ El desarrollo contempla un cronograma definido en base a la asignatura de Portaf
 
 ¿Tienes sugerencias o deseas colaborar? Contáctanos:
 
-- 📧 javier.vega@ejemplo.cl
-- 📧 moises.figueroa@ejemplo.cl
-- 📧 zenon.jara@ejemplo.cl
+- 📧 ja.vegaf@duocuc.cl
+- 📧 mois.figueroa@duocuc.cl
+- 📧 ze.jara@duocuc.cl
 
 ---
 
